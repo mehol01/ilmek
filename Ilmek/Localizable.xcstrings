@@ -1,0 +1,3661 @@
+{
+  "sourceLanguage": "tr",
+  "strings": {
+    " · %@ tamamlandı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " · %@ done"
+          }
+        }
+      }
+    },
+    " · günde %lld kez": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " · %lld× a day"
+          }
+        }
+      }
+    },
+    "%@ engellensin mi?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Block %@?"
+          }
+        }
+      }
+    },
+    "%@ gruptan çıkarılsın mı?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove %@ from the group?"
+          }
+        }
+      }
+    },
+    "%lld": {
+      "shouldTranslate": false
+    },
+    "%lld / %lld": {
+      "shouldTranslate": false
+    },
+    "%lld alışkanlık duraklatıldı": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "1 habit paused"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld habits paused"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld alışkanlıkla başla": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Start with 1 habit"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Start with %lld habits"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld alışkanlığın iCloud'dan geri geldi. Kaldığın yerden devam et.": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Your habit came back from iCloud. Pick up where you left off."
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld habits came back from iCloud. Pick up where you left off."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld doz": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "1 dose"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld doses"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld gün": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "1 day"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld days"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld gün içinde": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "of 1 day"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "of %lld days"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld günde bir": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Every %lld days"
+          }
+        }
+      }
+    },
+    "%lld kişi · bugün %lld kişi tamamladı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld members · %lld finished today"
+          }
+        }
+      }
+    },
+    "%lld/%lld": {
+      "shouldTranslate": false
+    },
+    "+%lld": {
+      "shouldTranslate": false
+    },
+    "10 dk sonra": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "In 10 min"
+          }
+        }
+      }
+    },
+    "31 seçersen her ayın son günü sayılır.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choosing 31 means the last day of every month."
+          }
+        }
+      }
+    },
+    "Ad": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Name"
+          }
+        }
+      }
+    },
+    "Adaçayı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sage"
+          }
+        }
+      }
+    },
+    "Akşam": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Evening"
+          }
+        }
+      }
+    },
+    "Alışkanlık": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Habit"
+          }
+        }
+      }
+    },
+    "Alışkanlık ekle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add habit"
+          }
+        }
+      }
+    },
+    "Alışkanlıklar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Habits"
+          }
+        }
+      }
+    },
+    "Alışkanlıklarım": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "My habits"
+          }
+        }
+      }
+    },
+    "Alışkanlıkların güvende. Telefonun kilidini açtıktan sonra tekrar dene.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your habits are safe. Unlock your phone, then try again."
+          }
+        }
+      }
+    },
+    "Alışkanlıkların ve geçmişin silinmez; sadece arkadaşlarla paylaşılan veriler silinir.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your habits and history stay; only what you shared with friends is deleted."
+          }
+        }
+      }
+    },
+    "Alışkanlıklarını işaretle, serini büyüt. Takvimde her günün nasıl geçtiğini gör. İstersen ayarlardan Örgü modunu aç; her gün atkına bir ilmek olarak eklensin.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check off your habits and grow your streak. See how every day went on a calendar. Turn on Knit mode in settings to add each day to a scarf as a stitch."
+          }
+        }
+      }
+    },
+    "Alışkanlıklarını çoğunlukla akşam yapıyorsun.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You mostly do your habits in the evening."
+          }
+        }
+      }
+    },
+    "Alışkanlıklarını çoğunlukla sabah yapıyorsun.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You mostly do your habits in the morning."
+          }
+        }
+      }
+    },
+    "Alışkanlıklarını çoğunlukla öğleden sonra yapıyorsun.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You mostly do your habits in the afternoon."
+          }
+        }
+      }
+    },
+    "Aralıklı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "At intervals"
+          }
+        }
+      }
+    },
+    "Arkadaşlar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Friends"
+          }
+        }
+      }
+    },
+    "Arkadaşlarım günü bitirince haber ver": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notify me when friends finish their day"
+          }
+        }
+      }
+    },
+    "Arkadaşlarımla paylaş": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Share with friends"
+          }
+        }
+      }
+    },
+    "Arkadaşların ilerlemeni görebilsin diye bir takma ad gir.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add a nickname so your friends can see your progress."
+          }
+        }
+      }
+    },
+    "Arkadaşların seni bu adla görür. Hesap ya da şifre yok; kimliğin iCloud'dan gelir.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Friends see you by this name. No account or password — your identity comes from iCloud."
+          }
+        }
+      }
+    },
+    "Arkadaşlarınla grup kurmak için Ayarlar'dan iCloud'a giriş yap. Alışkanlıkların bu cihazda çalışmaya devam eder.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sign in to iCloud in Settings to create groups with friends. Your habits keep working on this device."
+          }
+        }
+      }
+    },
+    "Arkadaşının paylaştığı 8 karakterlik kodu gir.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enter the 8-character code your friend shared."
+          }
+        }
+      }
+    },
+    "Arşiv": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archive"
+          }
+        }
+      }
+    },
+    "Arşivdekiler listede görünmez ama geçmişleri ve serileri durur. Geri almak için sağa kaydır.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archived habits are hidden from your list but keep their history and streaks. Swipe right to restore."
+          }
+        }
+      }
+    },
+    "Arşivden çıkar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unarchive"
+          }
+        }
+      }
+    },
+    "Arşivle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archive"
+          }
+        }
+      }
+    },
+    "Arşivlenen alışkanlık listeden kalkar, geçmişi ve serisi korunur.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archived habits leave the list; their history and streak are kept."
+          }
+        }
+      }
+    },
+    "Atkı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scarf"
+          }
+        }
+      }
+    },
+    "Atkı: %lld ilmek, %lld sıra": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scarf: %lld stitches, %lld rows"
+          }
+        }
+      }
+    },
+    "Atkım": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "My scarf"
+          }
+        }
+      }
+    },
+    "Atkımı arkadaşlarım görsün": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Let friends see my scarf"
+          }
+        }
+      }
+    },
+    "Atkın burada örülecek": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your scarf will be knitted here"
+          }
+        }
+      }
+    },
+    "Atkısı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Their scarf"
+          }
+        }
+      }
+    },
+    "Atkısını gizli tutuyor.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keeps their scarf private."
+          }
+        }
+      }
+    },
+    "Atla": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skip"
+          }
+        }
+      }
+    },
+    "Atlamayı kaldır": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unskip"
+          }
+        }
+      }
+    },
+    "Atlandı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skipped"
+          }
+        }
+      }
+    },
+    "Ay": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Month"
+          }
+        }
+      }
+    },
+    "Ayarlar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        }
+      }
+    },
+    "Ayarlar › [adın] › iCloud'dan giriş yapabilirsin.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You can sign in under Settings › [your name] › iCloud."
+          }
+        }
+      }
+    },
+    "Ayda %lld kez": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Once a month"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld× a month"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Ayda birkaç kez": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Several times a month"
+          }
+        }
+      }
+    },
+    "Aylık tamamlama": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monthly completion"
+          }
+        }
+      }
+    },
+    "Ayrıntı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Detail"
+          }
+        }
+      }
+    },
+    "Ayrıntılı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Detailed"
+          }
+        }
+      }
+    },
+    "Ayın belirli günleri": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Certain days of the month"
+          }
+        }
+      }
+    },
+    "Az": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Less"
+          }
+        }
+      }
+    },
+    "Açık": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Light"
+          }
+        }
+      }
+    },
+    "Açık: alışkanlıkların ve serin yedekleniyor.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On: your habits and streaks are backed up."
+          }
+        }
+      }
+    },
+    "Başla": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start"
+          }
+        }
+      }
+    },
+    "Başladığından beri.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Since you started."
+          }
+        }
+      }
+    },
+    "Başlangıç": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "From"
+          }
+        }
+      }
+    },
+    "Belirli saatler": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "At set times"
+          }
+        }
+      }
+    },
+    "Bildir": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Report"
+          }
+        }
+      }
+    },
+    "Bildirimler": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications"
+          }
+        }
+      }
+    },
+    "Bildirimler kapalı. Açmak için dokun.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notifications are off. Tap to turn them on."
+          }
+        }
+      }
+    },
+    "Bir alışkanlık ekle; her gün yaptıkça serin uzasın.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add a habit and grow your streak every day you do it."
+          }
+        }
+      }
+    },
+    "Bir alışkanlık ekleyince başlar.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "It starts once you add a habit."
+          }
+        }
+      }
+    },
+    "Bir geri al": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Undo one"
+          }
+        }
+      }
+    },
+    "Bir grup kur ve kodu arkadaşlarınla paylaş. Kimin bugün kaç ilmek attığını görün, birbirinizi motive edin.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create a group and share the code with friends. See who's knitted how many stitches today and keep each other going."
+          }
+        }
+      }
+    },
+    "Birkaç günde bir": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Every few days"
+          }
+        }
+      }
+    },
+    "Birkaç tane seç ya da boş başla. Sonra istediğin gibi düzenleyebilirsin.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pick a few or start empty. You can change everything later."
+          }
+        }
+      }
+    },
+    "Birlikte ör": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Knit together"
+          }
+        }
+      }
+    },
+    "Bitiş": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Until"
+          }
+        }
+      }
+    },
+    "Bitiş saati başlangıçtan sonra olmalı.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "End time must be after start time."
+          }
+        }
+      }
+    },
+    "Bitiş: %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Until %@"
+          }
+        }
+      }
+    },
+    "Bitti": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done"
+          }
+        }
+      }
+    },
+    "Bu alışkanlık ve tüm geçmişi silinsin mi?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete this habit and all its history?"
+          }
+        }
+      }
+    },
+    "Bu dönemde %lld kez tamamladın.": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "You completed a habit once in this period."
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "You completed habits %lld times in this period."
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Bu gruba katılamazsın.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You can't join this group."
+          }
+        }
+      }
+    },
+    "Bu işlem geri alınamaz.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This can't be undone."
+          }
+        }
+      }
+    },
+    "Bu işlem geri alınamaz. Geçmişi saklamak için arşivleyebilirsin.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This can't be undone. Archive it to keep its history."
+          }
+        }
+      }
+    },
+    "Bu kişiyi artık hiçbir grupta görmezsin ve onun bildirimleri gelmez. Profil ekranından engeli kaldırabilirsin.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You won't see this person in any group, and you won't get their notifications. You can unblock them on the Profile screen."
+          }
+        }
+      }
+    },
+    "Bu kodla bir grup bulunamadı.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No group found with this code."
+          }
+        }
+      }
+    },
+    "Bugün": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today"
+          }
+        }
+      }
+    },
+    "Bugün %lld/%lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today %lld/%lld"
+          }
+        }
+      }
+    },
+    "Bugün dinlenme günü": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rest day today"
+          }
+        }
+      }
+    },
+    "Bugün henüz açmadı · dün %lld/%lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not opened today yet · yesterday %lld/%lld"
+          }
+        }
+      }
+    },
+    "Bugün için bir şey yok": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nothing for today"
+          }
+        }
+      }
+    },
+    "Bugün için paylaşılan alışkanlık yok.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No shared habits for today."
+          }
+        }
+      }
+    },
+    "Bugün sırası değil": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not due today"
+          }
+        }
+      }
+    },
+    "Bugünün ilmeği tamam": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today's stitch is done"
+          }
+        }
+      }
+    },
+    "Bugünün ilmeğini atma zamanı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Time for today's stitch"
+          }
+        }
+      }
+    },
+    "Bugünün ipliği": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Today's yarn"
+          }
+        }
+      }
+    },
+    "Bunu sadece grubu kuran yapabilir.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Only the group's creator can do this."
+          }
+        }
+      }
+    },
+    "Bütün alışkanlıkların bitiş gününe kadar duraklar: serin bozulmaz, hatırlatma gelmez. Tek bir alışkanlığı da düzenleme ekranından duraklatabilirsin.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All your habits pause until the end date: your streak stays and no reminders arrive. You can also pause a single habit from its edit screen."
+          }
+        }
+      }
+    },
+    "Davet kodu": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Invite code"
+          }
+        }
+      }
+    },
+    "Devam": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continue"
+          }
+        }
+      }
+    },
+    "Devam ettir": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resume"
+          }
+        }
+      }
+    },
+    "Dinlenme": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rest"
+          }
+        }
+      }
+    },
+    "Diğer": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Other"
+          }
+        }
+      }
+    },
+    "Doz (örn. 1 tablet, 5 ml)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dose (e.g. 1 tablet, 5 ml)"
+          }
+        }
+      }
+    },
+    "Doz sayısı hatırlatma saatlerinden hesaplanır.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Doses are counted from the reminder times."
+          }
+        }
+      }
+    },
+    "Duraklat": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pause"
+          }
+        }
+      }
+    },
+    "Duraklatıldı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paused until"
+          }
+        }
+      }
+    },
+    "Durum": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Status"
+          }
+        }
+      }
+    },
+    "Dönem": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Period"
+          }
+        }
+      }
+    },
+    "Dün": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yesterday"
+          }
+        }
+      }
+    },
+    "Düzenle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit"
+          }
+        }
+      }
+    },
+    "Ekle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add"
+          }
+        }
+      }
+    },
+    "En fazla %lld kişi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Up to %lld people"
+          }
+        }
+      }
+    },
+    "En istikrarlı: %@ %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Most consistent: %1$@ %2$@"
+          }
+        }
+      }
+    },
+    "En iyi günün %@, en zor günün %@.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your best day is %1$@, your hardest is %2$@."
+          }
+        }
+      }
+    },
+    "En iyi günün: %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your best day: %@"
+          }
+        }
+      }
+    },
+    "En uzun seri": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Longest streak"
+          }
+        }
+      }
+    },
+    "En uzun tam gün serin: %lld gün": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Longest perfect streak: 1 day"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Longest perfect streak: %lld days"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "En zor günün: %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your hardest day: %@"
+          }
+        }
+      }
+    },
+    "En çok gelişen: %@ %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Most improved: %1$@ %2$@"
+          }
+        }
+      }
+    },
+    "En çok zorlandığın: %@ %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toughest: %1$@ %2$@"
+          }
+        }
+      }
+    },
+    "Engeli kaldır": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unblock"
+          }
+        }
+      }
+    },
+    "Engelle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Block"
+          }
+        }
+      }
+    },
+    "Engellediğin kişileri hiçbir grupta görmezsin ve bildirimleri gelmez. Bu yalnızca bu telefonda geçerli.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "People you block don't appear in any group and you don't get their notifications. This applies to this phone only."
+          }
+        }
+      }
+    },
+    "Engellenenler": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Blocked"
+          }
+        }
+      }
+    },
+    "Erken yat": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sleep early"
+          }
+        }
+      }
+    },
+    "Ev & hayat": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Home & life"
+          }
+        }
+      }
+    },
+    "Eşitleme başlatılamadı: veriler şimdilik sadece bu cihazda. Uygulamayı kapatıp yeniden aç.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sync couldn't start: data is on this device only for now. Close the app and open it again."
+          }
+        }
+      }
+    },
+    "FRIEND_DAY_COMPLETE": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ finished all of today's stitches 🧶"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ bugünün tüm ilmeklerini attı 🧶"
+          }
+        }
+      }
+    },
+    "GROUP_MEMBER_JOINED": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ joined your group"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$@ grubuna katıldı"
+          }
+        }
+      }
+    },
+    "Geri al": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Undo"
+          }
+        }
+      }
+    },
+    "Geri bildirim gönder": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send feedback"
+          }
+        }
+      }
+    },
+    "Gidişat": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trend"
+          }
+        }
+      }
+    },
+    "Gizli: arkadaşların bunu hiç görmez; onlara görünen toplam sayıya ve seriye de eklenmez.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Private: friends never see this, and it doesn't count toward the total or streak they see."
+          }
+        }
+      }
+    },
+    "Gizlilik politikası": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privacy policy"
+          }
+        }
+      }
+    },
+    "Grubu kapat": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close group"
+          }
+        }
+      }
+    },
+    "Grubum": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "My group"
+          }
+        }
+      }
+    },
+    "Grup adı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Group name"
+          }
+        }
+      }
+    },
+    "Grup adı (örn. Sabah kulübü)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Group name (e.g. Morning club)"
+          }
+        }
+      }
+    },
+    "Grup ayarları": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Group settings"
+          }
+        }
+      }
+    },
+    "Grup bulunamadı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Group not found"
+          }
+        }
+      }
+    },
+    "Grup dolu.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This group is full."
+          }
+        }
+      }
+    },
+    "Grup herkes için kapanacak.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The group will close for everyone."
+          }
+        }
+      }
+    },
+    "Grup kapatılmış ya da gruptan çıkmış olabilirsin.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The group may have been closed, or you left it."
+          }
+        }
+      }
+    },
+    "Grup kur": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create group"
+          }
+        }
+      }
+    },
+    "Gruplar için iPhone'da iCloud'a giriş yapmış olmalısın.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Groups need you to be signed in to iCloud on this iPhone."
+          }
+        }
+      }
+    },
+    "Gruplara şu an ulaşılamıyor": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Groups are unavailable right now"
+          }
+        }
+      }
+    },
+    "Gruplardan çık ve paylaştıklarımı sil": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave groups and delete my shared data"
+          }
+        }
+      }
+    },
+    "Gruplarındaki arkadaşların bu alışkanlığı ve bugün yapıp yapmadığını görür.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Friends in your groups see this habit and whether you did it today."
+          }
+        }
+      }
+    },
+    "Gruptan çık": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave group"
+          }
+        }
+      }
+    },
+    "Gruptan çıkar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove from group"
+          }
+        }
+      }
+    },
+    "Gruptan çıkılsın mı?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave the group?"
+          }
+        }
+      }
+    },
+    "Görünüm": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "View"
+          }
+        }
+      }
+    },
+    "Gül": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rose"
+          }
+        }
+      }
+    },
+    "Gün": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Day"
+          }
+        }
+      }
+    },
+    "Gün bitene kadar değiştirebilirsin. Gece yarısı ilmek kilitlenir.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You can change it until the day ends. At midnight the stitch is locked."
+          }
+        }
+      }
+    },
+    "Gün boyu": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anytime"
+          }
+        }
+      }
+    },
+    "Günde": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Per day"
+          }
+        }
+      }
+    },
+    "Günde %lld kez": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Once a day"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld times a day"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Günlük tamamlama": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Daily completion"
+          }
+        }
+      }
+    },
+    "Güzel gidiyor": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Going well"
+          }
+        }
+      }
+    },
+    "Hadi ilk ilmeği at": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Knit your first stitch"
+          }
+        }
+      }
+    },
+    "Hafta": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Week"
+          }
+        }
+      }
+    },
+    "Hafta içi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weekdays"
+          }
+        }
+      }
+    },
+    "Hafta sonu": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weekends"
+          }
+        }
+      }
+    },
+    "Haftada %lld kez": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Once a week"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld× a week"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Haftada birkaç kez": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Several times a week"
+          }
+        }
+      }
+    },
+    "Haftalık tamamlama": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Weekly completion"
+          }
+        }
+      }
+    },
+    "Haftanın belirli günleri": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Certain weekdays"
+          }
+        }
+      }
+    },
+    "Haftanın günleri": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Days of the week"
+          }
+        }
+      }
+    },
+    "Haftanın her günü dengelisin.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You're steady every day of the week."
+          }
+        }
+      }
+    },
+    "Hatırlatma": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reminder"
+          }
+        }
+      }
+    },
+    "Henüz alışkanlık yok": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No habits yet"
+          }
+        }
+      }
+    },
+    "Henüz bir şey paylaşmadı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hasn't shared anything yet"
+          }
+        }
+      }
+    },
+    "Henüz izin verilmedi; hatırlatma eklerken sorulur.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not asked yet; you'll be asked when you add a reminder."
+          }
+        }
+      }
+    },
+    "Hepsi tamam 🎉": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All done 🎉"
+          }
+        }
+      }
+    },
+    "Her %lld saatte bir": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Every hour"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Every %lld hours"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Her ayın %@. günü": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Day %@ of every month"
+          }
+        }
+      }
+    },
+    "Her gün": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Every day"
+          }
+        }
+      }
+    },
+    "Her gün bir ilmek": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One stitch a day"
+          }
+        }
+      }
+    },
+    "Her gün, haftanın belirli günleri, haftada üç kez, ayda bir… İlaçlar için saatli hatırlatmalar. Sınırsız alışkanlık, tamamen ücretsiz.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Daily, on certain weekdays, three times a week, once a month… Timed reminders for medicines. Unlimited habits, completely free."
+          }
+        }
+      }
+    },
+    "Her tamamladığın gün atkına bir ilmek olarak eklenir; günün ipliğini sen seçersin. Kapalıyken de atkın arka planda örülmeye devam eder.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Every day you complete becomes a stitch in your scarf, in a yarn colour you pick. Your scarf keeps growing in the background even while this is off."
+          }
+        }
+      }
+    },
+    "K7QF-29XM": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "K7QF-29XM"
+          }
+        }
+      }
+    },
+    "Kapalı: hatırlatmalar gelmez. Açmak için dokun.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Off: reminders won't arrive. Tap to turn on."
+          }
+        }
+      }
+    },
+    "Kapalı: veriler sadece bu cihazda. Ayarlar › [adın] › iCloud'dan aç.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Off: data stays on this device only. Turn it on in Settings › [your name] › iCloud."
+          }
+        }
+      }
+    },
+    "Kapat": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close"
+          }
+        }
+      }
+    },
+    "Katıl": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Join"
+          }
+        }
+      }
+    },
+    "Kaydet": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save"
+          }
+        }
+      }
+    },
+    "Kayıt yok, şifre yok. Gizli alışkanlıkların arkadaşlarına hiç gösterilmez.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No sign-up, no password. Private habits are never shown to friends."
+          }
+        }
+      }
+    },
+    "Kiremit": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terracotta"
+          }
+        }
+      }
+    },
+    "Kitap oku": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Read"
+          }
+        }
+      }
+    },
+    "Kod 8 karakter olmalı, örn. K7QF-29XM.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Codes have 8 characters, e.g. K7QF-29XM."
+          }
+        }
+      }
+    },
+    "Kod üretilemedi, tekrar dene.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't create a code, try again."
+          }
+        }
+      }
+    },
+    "Koda katıl": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Join with code"
+          }
+        }
+      }
+    },
+    "Kopyala": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy"
+          }
+        }
+      }
+    },
+    "Kopyalandı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copied"
+          }
+        }
+      }
+    },
+    "Koyu": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dark"
+          }
+        }
+      }
+    },
+    "Kum": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sand"
+          }
+        }
+      }
+    },
+    "Kur": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Create"
+          }
+        }
+      }
+    },
+    "Kömür": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Charcoal"
+          }
+        }
+      }
+    },
+    "Kısmen tamamlanmış": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Partly done"
+          }
+        }
+      }
+    },
+    "Mavi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Blue"
+          }
+        }
+      }
+    },
+    "Mürdüm": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plum"
+          }
+        }
+      }
+    },
+    "Nereden başlayalım?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Where shall we start?"
+          }
+        }
+      }
+    },
+    "O gün boş kalmış": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nothing done that day"
+          }
+        }
+      }
+    },
+    "O gün sırası değildi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not due that day"
+          }
+        }
+      }
+    },
+    "O gün takip edilen bir alışkanlık yok.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No habits were tracked that day."
+          }
+        }
+      }
+    },
+    "O gün tamamdı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That day was complete"
+          }
+        }
+      }
+    },
+    "Oran": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rate"
+          }
+        }
+      }
+    },
+    "Orman": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Forest"
+          }
+        }
+      }
+    },
+    "Paylaş": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Share"
+          }
+        }
+      }
+    },
+    "Profil": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Profile"
+          }
+        }
+      }
+    },
+    "Saat": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Time"
+          }
+        }
+      }
+    },
+    "Saat %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Time %lld"
+          }
+        }
+      }
+    },
+    "Saat ekle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add time"
+          }
+        }
+      }
+    },
+    "Saatler": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hours"
+          }
+        }
+      }
+    },
+    "Sabah": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Morning"
+          }
+        }
+      }
+    },
+    "Sade": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Simple"
+          }
+        }
+      }
+    },
+    "Safran": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saffron"
+          }
+        }
+      }
+    },
+    "Sağlık": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Health"
+          }
+        }
+      }
+    },
+    "Serin kaybolmaz": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your streak is safe"
+          }
+        }
+      }
+    },
+    "Sil": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delete"
+          }
+        }
+      }
+    },
+    "Simge": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Icon"
+          }
+        }
+      }
+    },
+    "Simge değiştirilemedi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn't change the icon"
+          }
+        }
+      }
+    },
+    "Simge seç": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose icon"
+          }
+        }
+      }
+    },
+    "Sistem": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "System"
+          }
+        }
+      }
+    },
+    "Son 1 yıla göre.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Over the last year."
+          }
+        }
+      }
+    },
+    "Son 30 gün": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Last 30 days"
+          }
+        }
+      }
+    },
+    "Son 30 güne göre.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Over the last 30 days."
+          }
+        }
+      }
+    },
+    "Son 7 güne göre.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Over the last 7 days."
+          }
+        }
+      }
+    },
+    "Son görülme %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Last seen %@"
+          }
+        }
+      }
+    },
+    "Son paylaşılan gün": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Last shared day"
+          }
+        }
+      }
+    },
+    "Spor": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Workout"
+          }
+        }
+      }
+    },
+    "Su iç": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drink water"
+          }
+        }
+      }
+    },
+    "Sunucu kurulumu eksik (index). Geliştiriciye bildir.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Server setup incomplete (index). Please tell the developer."
+          }
+        }
+      }
+    },
+    "Sıfırla": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset"
+          }
+        }
+      }
+    },
+    "Sıklık": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Frequency"
+          }
+        }
+      }
+    },
+    "Sınır yeni katılımlar için geçerli; mevcut üyeler çıkarılmaz.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The limit applies to new joins; current members stay."
+          }
+        }
+      }
+    },
+    "Sınırı sonra grup ayarlarından değiştirebilirsin.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You can change the limit later in group settings."
+          }
+        }
+      }
+    },
+    "Sırala, arşivdekileri geri al.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reorder, or restore archived habits."
+          }
+        }
+      }
+    },
+    "Sıralamak için Düzenle'ye bas ve sürükle.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap Edit and drag to reorder."
+          }
+        }
+      }
+    },
+    "Sırası değil": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not due"
+          }
+        }
+      }
+    },
+    "Takma ad": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nickname"
+          }
+        }
+      }
+    },
+    "Takvim": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Calendar"
+          }
+        }
+      }
+    },
+    "Tam gün": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perfect days"
+          }
+        }
+      }
+    },
+    "Tamam": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        }
+      }
+    },
+    "Tamamla": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Complete"
+          }
+        }
+      }
+    },
+    "Tamamlama": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Completion"
+          }
+        }
+      }
+    },
+    "Tamamlananlar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done"
+          }
+        }
+      }
+    },
+    "Tamamlandı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Completed"
+          }
+        }
+      }
+    },
+    "Tarih": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Date"
+          }
+        }
+      }
+    },
+    "Tatil modu": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vacation mode"
+          }
+        }
+      }
+    },
+    "Tatil, hastalık ya da ara verdiğin günler serini bozmaz ve hatırlatma gelmez.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vacation, sick days or breaks won't break your streak, and no reminders arrive."
+          }
+        }
+      }
+    },
+    "Tatile başla": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Start vacation"
+          }
+        }
+      }
+    },
+    "Tatili bitir": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "End vacation"
+          }
+        }
+      }
+    },
+    "Tekrar dene": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try again"
+          }
+        }
+      }
+    },
+    "Tekrar hoş geldin": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welcome back"
+          }
+        }
+      }
+    },
+    "Tema": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Appearance"
+          }
+        }
+      }
+    },
+    "Tüm gruplardan çıkılsın ve paylaştıkların silinsin mi?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave all groups and delete what you've shared?"
+          }
+        }
+      }
+    },
+    "Tüm takvim": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Full calendar"
+          }
+        }
+      }
+    },
+    "Tümü": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All"
+          }
+        }
+      }
+    },
+    "Tür": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type"
+          }
+        }
+      }
+    },
+    "Uygulama simgesi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App icon"
+          }
+        }
+      }
+    },
+    "Vazgeç": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        }
+      }
+    },
+    "Verilerin kendi iCloud'unda saklanır. App'i silsen de, yeni telefona geçsen de alışkanlıkların ve serin geri gelir. Hesap yok, şifre yok.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your data lives in your own iCloud. Delete the app or switch phones — your habits and streaks come right back. No account, no password."
+          }
+        }
+      }
+    },
+    "Verilerine şu an ulaşılamıyor": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your data isn't available right now"
+          }
+        }
+      }
+    },
+    "Vitamin": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vitamins"
+          }
+        }
+      }
+    },
+    "Ya da bir emoji yaz": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Or type an emoji"
+          }
+        }
+      }
+    },
+    "Yapıştır": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Paste"
+          }
+        }
+      }
+    },
+    "Yeni alışkanlık": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New habit"
+          }
+        }
+      }
+    },
+    "Yeni üye": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New member"
+          }
+        }
+      }
+    },
+    "Yeşil": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Green"
+          }
+        }
+      }
+    },
+    "Yeşil ve mavi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Green and blue"
+          }
+        }
+      }
+    },
+    "Yok": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "None"
+          }
+        }
+      }
+    },
+    "Yürüyüş": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Walk"
+          }
+        }
+      }
+    },
+    "Yıl": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Year"
+          }
+        }
+      }
+    },
+    "Zeytin": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Olive"
+          }
+        }
+      }
+    },
+    "Zihin": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mind"
+          }
+        }
+      }
+    },
+    "ay": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "month"
+          }
+        }
+      }
+    },
+    "ay sonu": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "last"
+          }
+        }
+      }
+    },
+    "ay · en uzun": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "months · longest"
+          }
+        }
+      }
+    },
+    "ay · şu anki": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "months · current"
+          }
+        }
+      }
+    },
+    "gün": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "day"
+          }
+        }
+      }
+    },
+    "gün · en uzun": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "days · longest"
+          }
+        }
+      }
+    },
+    "gün · şu anki": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "days · current"
+          }
+        }
+      }
+    },
+    "hafta": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "week"
+          }
+        }
+      }
+    },
+    "hafta · en uzun": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "weeks · longest"
+          }
+        }
+      }
+    },
+    "hafta · şu anki": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "weeks · current"
+          }
+        }
+      }
+    },
+    "iCloud": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud"
+          }
+        }
+      }
+    },
+    "iCloud açık, yedekleme çalışıyor": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud is on, backup is working"
+          }
+        }
+      }
+    },
+    "iCloud bu cihazda kısıtlı.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud is restricted on this device."
+          }
+        }
+      }
+    },
+    "iCloud durumu bilinmiyor.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud status unknown."
+          }
+        }
+      }
+    },
+    "iCloud gerekli": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud required"
+          }
+        }
+      }
+    },
+    "iCloud geçici olarak kullanılamıyor.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud is temporarily unavailable."
+          }
+        }
+      }
+    },
+    "iCloud kapalı: veriler sadece bu cihazda kalır": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloud is off: data stays on this device only"
+          }
+        }
+      }
+    },
+    "iCloud kotası dolu.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your iCloud storage is full."
+          }
+        }
+      }
+    },
+    "ilmek": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "stitches"
+          }
+        }
+      }
+    },
+    "sen": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "you"
+          }
+        }
+      }
+    },
+    "sıra": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "rows"
+          }
+        }
+      }
+    },
+    "tam gün": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "full days"
+          }
+        }
+      }
+    },
+    "toplam": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "total"
+          }
+        }
+      }
+    },
+    "Çevrimdışı, son bilinen durum gösteriliyor. %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Offline, showing the last known state. %@"
+          }
+        }
+      }
+    },
+    "Çini": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tile blue"
+          }
+        }
+      }
+    },
+    "Çivit": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Indigo"
+          }
+        }
+      }
+    },
+    "Çok": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "More"
+          }
+        }
+      }
+    },
+    "Çık": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Leave"
+          }
+        }
+      }
+    },
+    "Çıkar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove"
+          }
+        }
+      }
+    },
+    "Önceki döneme göre biraz düştün.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A little lower than the previous period."
+          }
+        }
+      }
+    },
+    "Önceki döneme göre daha iyisin.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Better than the previous period."
+          }
+        }
+      }
+    },
+    "Öne çıkanlar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Highlights"
+          }
+        }
+      }
+    },
+    "Örgü": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Knit"
+          }
+        }
+      }
+    },
+    "Örgü modu": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Knit mode"
+          }
+        }
+      }
+    },
+    "Örn. Kitap oku": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "e.g. Read"
+          }
+        }
+      }
+    },
+    "Örülüyor": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Knitting"
+          }
+        }
+      }
+    },
+    "Öğle": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Afternoon"
+          }
+        }
+      }
+    },
+    "Üye sınırı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Member limit"
+          }
+        }
+      }
+    },
+    "Üye sınırı koy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Limit members"
+          }
+        }
+      }
+    },
+    "öncekinden düşük": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "lower than before"
+          }
+        }
+      }
+    },
+    "öncekinden iyi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "better than before"
+          }
+        }
+      }
+    },
+    "İlaç / takviye": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Medicine / supplement"
+          }
+        }
+      }
+    },
+    "İlaç adı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Medicine name"
+          }
+        }
+      }
+    },
+    "İlaç zamanı": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Time for your medicine"
+          }
+        }
+      }
+    },
+    "İlaç zamanı · %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Time for your medicine · %@"
+          }
+        }
+      }
+    },
+    "İlaçları da duraklat": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pause medications too"
+          }
+        }
+      }
+    },
+    "İlerleme geçmişi, arkadaşlarının seni takvim üzerinde görmesini sağlar: hangi gün ne kadarını tamamladığın. Alışkanlıklarının adları bundan görünmez.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Progress history lets friends see you on a calendar: how much you completed each day. Habit names aren't part of it."
+          }
+        }
+      }
+    },
+    "İlerleme geçmişimi arkadaşlarım görsün": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Let friends see my progress history"
+          }
+        }
+      }
+    },
+    "İlerlemesi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Progress"
+          }
+        }
+      }
+    },
+    "İlk ilmeği at": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Knit your first stitch"
+          }
+        }
+      }
+    },
+    "İlmek bir hatırlatıcıdır, tıbbi tavsiye vermez. Dozlar için doktoruna danış.\n\nRahatsız Etme açıkken de gelsin istersen: Ayarlar › Odak › Rahatsız Etme › Uygulamalar › Zamana Duyarlı Bildirimler.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İlmek is a reminder, not medical advice. Ask your doctor about doses.\n\nTo get reminders during Do Not Disturb: Settings › Focus › Do Not Disturb › Apps › Time Sensitive Notifications."
+          }
+        }
+      }
+    },
+    "İlmek'te grubuma katıl 🧶 Kod: %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Join my group on İlmek 🧶 Code: %@"
+          }
+        }
+      }
+    },
+    "İnternet bağlantısı yok. Biraz sonra tekrar dene.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No internet connection. Try again in a bit."
+          }
+        }
+      }
+    },
+    "İstatistik": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stats"
+          }
+        }
+      }
+    },
+    "İstatistiklerin burada görünecek": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your stats will show up here"
+          }
+        }
+      }
+    },
+    "İstediğin sıklıkta": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As often as you like"
+          }
+        }
+      }
+    },
+    "İzin verildi": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Allowed"
+          }
+        }
+      }
+    },
+    "İşaret": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check-ins"
+          }
+        }
+      }
+    },
+    "Şimdi devam ettir": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Resume now"
+          }
+        }
+      }
+    },
+    "Şu anki seri": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Current streak"
+          }
+        }
+      }
+    },
+    "Şu tarihe kadar": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Until"
+          }
+        }
+      }
+    },
+    "—": {
+      "shouldTranslate": false
+    },
+    "…": {
+      "shouldTranslate": false
+    },
+    "🔥 %lld": {
+      "shouldTranslate": false
+    },
+    "🔥 %lld ay · en uzun %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🔥 %lld-month streak · best %lld"
+          }
+        }
+      }
+    },
+    "🔥 %lld aylık serini koru": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🔥 Keep your %lld-month streak"
+          }
+        }
+      }
+    },
+    "🔥 %lld gün · en uzun %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🔥 %lld-day streak · best %lld"
+          }
+        }
+      }
+    },
+    "🔥 %lld günlük serini koru": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🔥 Keep your %lld-day streak"
+          }
+        }
+      }
+    },
+    "🔥 %lld günlük tam seri": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🔥 %lld-day perfect streak"
+          }
+        }
+      }
+    },
+    "🔥 %lld hafta · en uzun %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🔥 %lld-week streak · best %lld"
+          }
+        }
+      }
+    },
+    "🔥 %lld haftalık serini koru": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "🔥 Keep your %lld-week streak"
+          }
+        }
+      }
+    },
+    "🧶": {
+      "shouldTranslate": false
+    },
+    "🧶🧶": {
+      "shouldTranslate": false
+    }
+  },
+  "version": "1.0"
+}
